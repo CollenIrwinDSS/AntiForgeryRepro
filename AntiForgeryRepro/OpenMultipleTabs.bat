@@ -1,0 +1,5 @@
+﻿start chrome "http://localhost:51535/Home/Page"
+start chrome "http://localhost:51535/Home/Page"
+start chrome "http://localhost:51535/Home/Page"
+start chrome "http://localhost:51535/Home/Page"
+start chrome "http://localhost:51535/Home/Page"
